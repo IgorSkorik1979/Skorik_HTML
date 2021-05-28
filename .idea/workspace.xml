@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65e9379-ff85-4099-83d2-98ea1daa5757" name="Default Changelist" comment="Lesson 2 Skorik HomeWork">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 2 - HTML5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Skorik_HTML.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new/.idea/new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1t4aAauRRimEAaVhnddEEXmmNAy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622030674910</updated>
-      <workItem from="1622030676421" duration="16811000" />
+      <workItem from="1622030676421" duration="17952000" />
     </task>
     <servers />
   </component>
